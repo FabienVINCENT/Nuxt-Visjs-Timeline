@@ -1,6 +1,6 @@
 {
   "name": "nuxt-visjs-timeline",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Nuxt 3 module for Visjs Timeline",
   "repository": "FabienVINCENT/nuxt-visjs-timeline",
   "license": "MIT",
